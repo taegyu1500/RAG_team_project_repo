@@ -1,7 +1,7 @@
 # RAG_team_project_repo
 ## 프로젝트 소개 및 목표
 ### 냉파고 : 레시피 추천 챗봇
-* 설명 : 일부 재료를 대체하여 추천해줄 수 있는 요리전문가 챗봇
+* 일부 재료를 대체하여 추천해줄 수 있는 요리전문가 챗봇
 ## 팀원 소개 및 역할 분담
   | Name | Role |
   |----|----|
@@ -30,7 +30,7 @@
  3. 원하는 레시피 정보를 획득한다.
 ## 데이터 출처 
  - 농식품 빅데이터 거래소:무료 레시피 데이터(만개의레시피)
-![Recipe data info](https://github.com/taegyu1500/RAG_team_project_repo/srcs/recipedata.jpeg)
+ - ![Recipe data info](https://github.com/taegyu1500/RAG_team_project_repo/blob/ChoiJonginhub-patch-1/srcs/recipedata.jpeg)
 ## 한계점 및 개선 방향 
  - 조리법 미포함
  - 국내 레시피만 포함
