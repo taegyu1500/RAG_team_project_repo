@@ -10,23 +10,28 @@
   | 장태규 | Project lead, Architect |
   | 최종인 | UI design |
 ## 기술 스택
-- python
-- streamlit
-- Langchain
-- Faiss
-- ollama
+- [ ] **Python**
+- [ ] **Streamlit**
+- [ ] **Langchain**
+- [ ] **Faiss**
+- [ ] **Ollama**
 ## 주요기능 설명
-* 주요 기능
+### 주요 기능
  - 레시피 검색 후 설명
  - 레시피 일부 재료 수정
-* 추가 기능
+### 추가 기능
  - 필터링/검색 옵션
  - 스트리밍 응답
  - 추천 시스템
  - PDF 리포트 생성
 ## 설치 및 실행 방법
-
+ 1. 모델의 데이터 임베딩을 기다린다.
+ 2. 임베딩이 완료된 후, 원하는 레시피를 입력한다.
+ 3. 원하는 레시피 정보를 획득한다.
 ## 데이터 출처 
  - 농식품 빅데이터 거래소:무료 레시피 데이터(만개의레시피)
- - 데이터셋 개요, 명세서 첨부
+![Recipe data info](https://github.com/taegyu1500/RAG_team_project_repo/srcs/recipedata.jpeg)
 ## 한계점 및 개선 방향 
+ - 조리법 미포함
+ - 국내 레시피만 포함
+ - 레시피 중복 과다
