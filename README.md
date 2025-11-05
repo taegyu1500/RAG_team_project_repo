@@ -30,7 +30,7 @@
  3. 원하는 레시피 정보를 획득한다.
 ## 데이터 출처 
  - 농식품 빅데이터 거래소:무료 레시피 데이터(만개의레시피)
- - ![Recipe data info](https://github.com/taegyu1500/RAG_team_project_repo/blob/ChoiJonginhub-patch-1/srcs/recipedata.jpeg)
+ <img src="https://github.com/taegyu1500/RAG_team_project_repo/blob/ChoiJonginhub-patch-1/srcs/recipedata.jpeg?raw=true" width="400px">
 ## 한계점 및 개선 방향 
  - 조리법 미포함
  - 국내 레시피만 포함
